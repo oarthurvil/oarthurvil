@@ -2,6 +2,7 @@
 
 <br />
 
+-   :round_pushpin: Intern **GFT Brazil**
 -   :mortar_board: Graduated **Law School**
 -   :books: Graduating **Computer Science**
 -   :monocle_face: Interested in **Web Development** and **Cybersecurity**
@@ -14,7 +15,7 @@
   <img align="center" alt="Arthur-HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Arthur-CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Arthur-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="Arthur-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="Arthur-Java" src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 <br />
